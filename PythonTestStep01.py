@@ -23,4 +23,5 @@ print(str1 + ' Completed')
 print(str2)
 print('Hello\nWorld!')
 print(r'Hello\nWorld!')
+print(str1+str2)
 
